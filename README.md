@@ -8,7 +8,7 @@ We model how continuous opinions (values in [0, 1]) evolve among a population of
 
 
 ## how network evolve with simualtion 
-![Logo](Figure_1.png)
+![Logo](assignment_01/Figure_1.png)
 
 ## Key parameters
 
